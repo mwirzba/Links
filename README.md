@@ -8,5 +8,5 @@ Repository I created for mysself to store useful links.
 
 
 ANGULAR
-*https://github.com/sulco/angular-developer-roadmap
+* https://github.com/sulco/angular-developer-roadmap
 
