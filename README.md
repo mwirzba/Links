@@ -7,9 +7,12 @@ Repository I created for myself to store useful links.
 * https://code-maze.com/aspnetcore-webapi-best-practices/
 * https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
 * https://restfulapi.net/
+* https://softwareengineering.stackexchange.com/questions/399765/responsibility-for-arrangement-of-elements-frontend-or-backend
 
 
 
 ANGULAR
 * https://github.com/sulco/angular-developer-roadmap
+* https://material.angular.io/
+
 
