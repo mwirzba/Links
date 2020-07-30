@@ -18,4 +18,7 @@ ANGULAR
 
 Programing books
  * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html?fbclid=IwAR1ucWyONNbQXVQzfMUUvxlNDNGluxFrP60y9zKzKjT7gr7kV2V9JYQC2is
+ 
+ HTTP 
+ * https://github.com/for-GET/http-decision-diagram
 
